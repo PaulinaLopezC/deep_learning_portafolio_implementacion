@@ -16,9 +16,9 @@ Entregable: Implementación de un modelo de deep learning.
 
 ## Documentos Adjuntos
 
-- Notebook de limpieza de datos -> ETL.ipynb
-- Notebook de entrenamiento -> ENT.ipynb
-- Notebook de predicciones -> PRED.ipynb
+- Notebook de limpieza de datos -> etl_final.ipynb
+- Notebook de entrenamiento -> ent_final.ipynb
+- Notebook de predicciones -> pred_final.ipynb
 - Reporte -> EvidenciaMod2_PaulinaLopezCuevas_A01701095.pdf
 - Archivo de modelo guardado -> modelo_bueno.keras
 - Dataset para pruebas -> test_dataset-20251107T153823Z-1-001.zip
