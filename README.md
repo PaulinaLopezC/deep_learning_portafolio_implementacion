@@ -1,6 +1,7 @@
-# FAKE NEWS DETECTION
+# deep_learning_portafolio_implementacion
 
 Detección de Fake News utiliando un modelo entrenado de deep learning.
+
 
 ## Módulo 2 Implementación de un modelo de deep learning. (Portafolio Implementación)
 
