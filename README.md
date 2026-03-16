@@ -1,4 +1,4 @@
-# deep_learning_portafolio_implementacion
+# FAKE NEWS DETECTION
 
 ## Módulo 2 Implementación de un modelo de deep learning. (Portafolio Implementación)
 
